@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/rochelin-shikamaru/E-commerce-product-page](https://your-solution-url.com)
-- Live Site URL: [https://e-co-page.netlify.app](https://your-live-site-url.com)
+- Solution URL: [https://github.com/rochelin-shikamaru/E-commerce-product-page](https://github.com/rochelin-shikamaru/E-commerce-product-page)
+- Live Site URL: [https://e-co-page.netlify.app](https://e-co-page.netlify.app)
 
 ## My process
 

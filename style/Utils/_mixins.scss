@@ -1,0 +1,21 @@
+@mixin flexbox ($justify: center, $align: center){
+    display: flex;
+    justify-content: $justify;
+    align-items: $align;
+}
+
+@mixin arrow ($display: none, $top: 50vw){
+    position: absolute;
+    top: $top;
+    display: $display;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: $white;
+    cursor: pointer;
+    z-index: 2;
+    &:hover > svg > path{
+        stroke: $first-color;
+    }
+    
+}
